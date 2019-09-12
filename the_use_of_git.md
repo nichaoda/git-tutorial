@@ -57,4 +57,7 @@ git checkout -b otherbranch origin/otherbranch
 
 ## 获取最新的远程仓库分支
 git pull		获取最新的远程仓库中的当前分支
->说明,如果要获取的是远程仓库的其它最新的分支,使用**git pull origin otherbranch**。
+>说明,如果要获取的是远程仓库的其它最新的分支,使用**git pull origin otherbranch**。  
+
+## git pull和git fetch的区别
+[详解git pull和git fetch的区别](https://blog.csdn.net/weixin_41975655/article/details/82887273)
